@@ -1,0 +1,17 @@
+#Volume Control
+XF86AudioLowerVolume
+	amixer -D pulse set Master 5%-
+XF86AudioRaiseVolume
+	amixer -D pulse set Master 5%+
+XF86AudioMute
+        amixer -D pulse set Master toggle
+
+# Change lanuage
+alt + shift + Tab
+	{setxkbmap ru, setxkbmap us}
+
+@Print
+	flameshot full -p ~/Screens
+
+shift + @Print
+	flameshot gui --clipboard 

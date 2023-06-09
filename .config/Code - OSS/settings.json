@@ -1,0 +1,57 @@
+{
+  "editor.fontFamily": "SFMono Nerd Font Mono",
+    "glassit.alpha": 51,
+    "window.titleBarStyle": "custom",
+
+    "editor.renderWhitespace": "all"
+   
+    // Set default terminal
+    //"terminal.integrated.shell.linux": "/usr/bin/fish",
+    
+    // Theme Settings
+    "workbench.colorCustomizations": {
+    // non-standard, transparency patched version only
+    "workbench.background": "#00000080",
+
+    // VSC colors
+    // ref: https://code.visualstudio.com/api/references/theme-color
+    "activityBar.background": "#00000069",
+    "activityBar.border":"#252a30",
+	 "activityBar.activeBackground":"#00000069",
+
+
+    //"editor.lineHighlightBackground": "#ffffff21",
+    //"editor.background":"#0a0e13",
+
+    //"editorGroupHeader.tabsBackground" :"#090c10",
+    //"editorGroupHeader.border": "#0f1319", //#252a30
+    //"editorGroupHeader.tabsBorder":"#252a30",
+
+
+    //"tab.activeBackground": "#040608", 
+    //"tab.inactiveBackground": "#090c10",
+    //"tab.unfocusedActiveBackground": "#090c10",
+    //"tab.activeBorderTop": "#bb652f",
+    //"tab.border": "#00000000",
+    
+
+    "list.activeSelectionBackground": "#00000040",
+    "list.hoverBackground": "#00000040",
+    "list.inactiveSelectionBackground": "#00000040",
+
+    //"sideBar.background": "#00000080",
+    //"sideBarSectionHeader.background": "#00000000",
+
+    "statusBar.background": "#0000008f",
+    "statusBar.noFolderBackground": "#00000485",
+    "statusBar.border":"#252a30",
+
+    "titleBar.activeBackground": "#00000069",
+    "titleBar.border": "#252a30"
+  },
+  "workbench.startupEditor": "none",
+  "workbench.productIconTheme": "material-product-icons",
+  "workbench.iconTheme": "vscode-simpler-icons",
+  "window.menuBarVisibility": "compact"
+}
+
