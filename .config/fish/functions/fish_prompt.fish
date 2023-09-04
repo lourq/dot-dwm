@@ -1,6 +1,10 @@
 function fish_prompt
   set -l last_status $status
 
+  if set -q SSH_TTY
+  set -g fish_color_host brred
+end
+
   if not set -q __fish_git_prompt_show_informative_status
     set -g __fish_git_prompt_show_informative_status 1
   end
