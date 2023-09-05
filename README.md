@@ -21,7 +21,7 @@ This repository contains my configuration files and settings for my Arch Linux s
 2. Clone this repository to your local machine:
 
 ```shell
-git clone https://notabug.org/noescape/dot-dwm.git
+git clone https://github.com/lourq/dot-dwm.git
 git clone https://git.suckless.org/dwm
 git clone https://github.com/joestandring/dwm-bar.git
 ```
@@ -34,8 +34,8 @@ cd dot-dwm
 
 ### 2. Install the required packages and dependencies:
 
-| :warning: WARNING          |
-|:---------------------------|
+| :warning: WARNING                |
+| :------------------------------- |
 | Using the pacman package manager |
 
 ```shell
@@ -47,8 +47,8 @@ yay -S code-oss-marketplace nerd-fonts-sf-mono nvim-packer-git
 
 ### 3. Configure the relevant configuration files:
 
-| :warning: WARNING          |
-|:---------------------------|
+| :warning: WARNING                      |
+| :------------------------------------- |
 | Edit your path in .script/autostart.sh |
 
 ```shell
@@ -73,9 +73,8 @@ reboot
 
 ## Issues and Support
 
-If you encounter any issues while using this repository or have any questions, please create an issue in the [Issues](https://notabug.org/noescape/dot-dwm/issues) section.
+If you encounter any issues while using this repository or have any questions, please create an issue in the [Issues](https://github.com/lourq/dot-dwm/issues) section.
 
 ## License
 
-This project is licensed under the [MIT License](https://notabug.org/noescape/dot-dwm/src/master/LICENSE).
-
+This project is licensed under the [MIT License](https://github.com/lourq/dot-dwm/blob/master/LICENSE).
