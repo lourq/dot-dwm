@@ -3,7 +3,7 @@
     "glassit.alpha": 51,
     "window.titleBarStyle": "custom",
 
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "all",
    
     // Set default terminal
     //"terminal.integrated.shell.linux": "/usr/bin/fish",

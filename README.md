@@ -42,7 +42,7 @@ cd dot-dwm
 sudo pacman -S xorg xorg-xinint alsa-plugins alsa-utils code connman dmenu dunst fish flameshot font-manager fuse2 go kitty lua-language-server luarocks ly mons mpc mpv neovim networkmanager networkmanager-openvpn nitrogen nodejs npm openresolv pamixer pass picom playerctl pulseaudio python-pillow ranger sxhkd wget
 xclip yarn
 
-yay -S code-oss-marketplace nerd-fonts-sf-mono nvim-packer-git
+yay -S code-oss-marketplace nerd-fonts-sf-mono nvim-packer-git wqy-zenhei
 ```
 
 ### 3. Configure the relevant configuration files:
